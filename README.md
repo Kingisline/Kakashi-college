@@ -1,4 +1,4 @@
-# Kakashi collge Management Dashboard
+# Kakashi college Management Dashboard
 
 ## Getting Started
 
@@ -26,3 +26,10 @@ To learn more about Next.js, take a look at the following resources:
 
 
 [Next.js](https://nextjs.org/learn)
+
+
+##💡 Links & Resources:
+
+
+Buy me a Coffee: [kakashi](https://buymeacoffee.com/kakashi_12)              
+Twitter: [X](https://x.com/StudentKalai)
